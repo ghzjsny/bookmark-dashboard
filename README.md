@@ -1,6 +1,6 @@
 # 书签导航 · Bookmark Dashboard
 
-一个 WeTab 风格的 Chrome 新标签页书签扩展（MV3）。读取本机书签，生成清爽的导航面板。
+一个 Chrome 新标签页书签扩展（MV3）。读取本机书签，生成清爽的导航面板。
 
 ## 功能
 
@@ -25,7 +25,7 @@
 ## 目录结构
 
 ```
-.
+。
 ├── manifest.json      # MV3 清单
 ├── index.html         # 新标签页入口
 ├── sw.js              # Service Worker
